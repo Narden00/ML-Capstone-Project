@@ -1,0 +1,4 @@
+Model,Metric,Value
+Linear Regression,R2 Score,0.4436545871
+Logistic Regression,Accuracy,0.948630137
+K-Means,Silhouette Score,0.1043732644
